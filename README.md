@@ -71,7 +71,7 @@ An XY scatter plot displays values for two variables to determine relationships 
 A logarithmic scale compresses large ranges of data into a more manageable format.
 
 ### Business Use:
-- Useful for visualizing data that spans several orders of magnitude (e.g., financial data).
+- Useful for visualizing data that spans several orders of magnitude (e.g., financial data, chemistry, biology or astronomy).
 - Enhances interpretation of exponential growth trends, such as sales over time.
 
 ## 9. Trendline
