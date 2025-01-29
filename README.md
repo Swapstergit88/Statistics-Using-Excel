@@ -55,12 +55,45 @@ enabling businesses to focus on key areas of interest. In case of multiple modes
 - Product Variants (Multiple Mode): Detects multiple popular product features to guide design improvements.
 - Service Usage (Multiple Mode): Identifies peak usage times for resource allocation in service industries. 
 
-## 2. Minimums
-The minimum value in a dataset represents the smallest observation.
+## 2. a> Minimums
+The minimum value in a dataset represents the smallest observation. This helps businesses understand lower bounds, identify inefficiencies, or set benchmarks for improvement.
 
-### Business Use:
-- Identifies the lowest performing products or services.
-- Useful in setting benchmarks for performance improvement.
+### Business Cases:
+- Cost Optimization: Identifies the lowest cost or expense to improve budgeting and resource allocation.
+- Risk Assessment: Determines the minimum revenue or performance level to assess potential risks.
+- Quality Control: Finds the lowest quality score or output to address production inefficiencies.
+- Pricing Strategies: Identifies the minimum price point to remain competitive in the market.
+- Inventory Management: Tracks minimum stock levels to prevent shortages and optimize supply chains.
+- Employee Performance: Identifies the lowest performance metrics to provide targeted training or support.
+- Energy Usage: Determines the minimum energy consumption to improve sustainablity and reduce costs. 
+
+## b> Maximum
+The maximum value in a dataset represents the largest observation. This helps businesses understand upper limits, set aspirational goals and identify peak performance or potential outliners.
+
+### Business Cases:
+- Revenue Analysis: Identifies the highest sales or revenue to set performance benchmarks.
+- Capacity Planning: Determines maximum production or service capacity to optimize operations.
+- Pricing Strategies: Identifies the highest price customers are willing to pay for permium products.
+- Risk Management: Tracks maximum losses or expenses to access financial exposure.
+- Employee Performance: Recognizes top-performing employees to reward and replicate success.
+- Resource Utilization: Identifies peak resource usage to improve efficency and planning.
+- Customer Engagement: Finds the maximum engagement metrics to enhance marketing strategies. 
+
+## c> Quartile 1, 2 and 3 
+Quartiles divide a dataset into 4 equal parts, providing insights into the distribution of data. 
+Q1 (25th percentile) identifies the lower range
+Q2 (50th percentile) represents the middle value
+Q3 (75th percentile) highlights the upper range
+
+### Business Cases:
+- Performance Analysis: Uses Q1, Q2 and Q3 to evaluate employee or sales performance distribution. 
+- Customer Segmentation: Divides customers into quartiles based on spending to tailor marketing strategies. 
+- Inventory Management: Identifies Q1 and Q3 stock levels to optimise inventory and reduce waste. 
+- Risk Assessment: Analyzes Q1 and Q3 fiancial metrics to assess variability and potential risks.
+- Salary Benchmarking: Uses quartiles to compare salary distribution accross departments or industries. 
+- Quality Control: Tracks Q1 and Q3 product quality metrics to identify consistency issues. 
+- Budget Allocation: Divides the projects or departments into quartlies based on ROI to priortize investments. 
+- 
 
 ## 3. Variance
 Variance measures the dispersion of data points from the mean, indicating how much the data varies.
