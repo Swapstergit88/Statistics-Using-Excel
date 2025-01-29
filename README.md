@@ -18,12 +18,42 @@ This README file provides an overview of key statistical concepts and Excel tool
 10. Forecasting
 11. Running Average
 
-## 1. Mean
+## 1. a> Mean
 The mean is the average of a dataset and is calculated by summing all values and dividing by the number of values.
 
 ### Business Use:
-- Helps assess overall performance metrics (e.g., average sales).
-- Facilitates comparisons between different datasets or time periods.
+- Revenue Calculation: Average sales or revenue data to access overall performance. 
+- Production Metrics: Determines average output or efficiency in manufacturing processes.
+- Customer Statisfaction: Calculates average ratings or feedback scores for service quality.
+- Inventory Management: Average stock levels to optimize inventory and reduce costs.
+- Finacial Analysis: Computes average returns or expenses for budgeting and forecasting.
+- Employee Productivity: Measures average output or hours worked to evaluate workforce efficiency.
+- Marketing ROI: Average campaign performance metrics to assess marketing effectiveness.
+  
+## b> Median
+The median is a powerful statistical tool in business for understanding central tendencies in a dataset with outliners or skewed distributions. 
+It provides more accurate reflection of the "typical" value, making it invaluable for decision making and analysis. 
+
+### Business Use:
+- Salary Analysis: Determines typical employee salaries, avoiding distortion from extreme outliners.
+- Real Estate Pricing: Reports median home prices to reflect typical property values.
+- Customer Spending: Identifies typical spending levels, unaffected by high-spending outliners.
+- Performance Metrics: Evaluate employee or sales performance in skewed datasets.
+- Risk Management: Analyzes investment returns or risks, reducing impact of extreme values.
+- Market Research: Understands consumer behaviour using median age, time or preferences.
+  
+## c> Mode ( Single and Multiple )
+The mode is a powerful statistical measure that indentifies the most frequent or recurring values in dataset. A single mode higlights the dominant trend or preference,
+enabling businesses to focus on key areas of interest. In case of multiple modes, it reveals diverse patterns or segments, proving deeper insights into varied behaviours or perferences. By leveraging the mode, business can make data driven decisions, optimize strategies and better align with customer or operational needs. 
+
+### Business Use:
+- Customer Feedback (Single Mode): Finds the most common issues or suggestion in customer reviews.
+- Product Preference (Single Mode): Identifies the most frequently purchased product to optimize inventory.
+- Sales Trends (Single Mode): Determines the most popular sales period or promotional offer.
+- Market Segmentation (Multiple Mode): Identifies multiple customer preferences for targeted marketing stratergies.
+- Employee Shifts (Multiple Mode): Finds the most common shift timings to schedule staff efficiently.
+- Product Variants (Multiple Mode): Detects multiple popular product features to guide design improvements.
+- Service Usage (Multiple Mode): Identifies peak usage times for resource allocation in service industries. 
 
 ## 2. Minimums
 The minimum value in a dataset represents the smallest observation.
