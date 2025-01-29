@@ -93,7 +93,6 @@ Q3 (75th percentile) highlights the upper range
 - Salary Benchmarking: Uses quartiles to compare salary distribution accross departments or industries. 
 - Quality Control: Tracks Q1 and Q3 product quality metrics to identify consistency issues. 
 - Budget Allocation: Divides the projects or departments into quartlies based on ROI to priortize investments. 
-- 
 
 ## 3. Variance
 Variance measures the dispersion of data points from the mean, indicating how much the data varies.
