@@ -151,16 +151,26 @@ Z-score card Screenshot:
 A histogram is a powerful graphical tool used to represent the distribution of numerical data by dividing it into intervals (bins) and displaying the frequency of datapoints within each bin. It helps identify patterns, trends and outliners, making it invaluable for data analysis and decision making. Histogram provides a clear visual understanding of data variability, central tendency, and skewness enabling business and researchers to draw meaningful insights and take action steps. 
 
 ### Business Use:
-- Sales Analysis: Visulize sales distribution to identify peak performance periods.
-- Quality Control: Monitor product defect rates to maintain manufacturing standards.
-- Customer Behaviour: Analyze purchase frequency to talior marketing strategies. 
-- Employee Performance: Evaluate performance metrics to identify training needs
-- Inventory Management: Track stock levels to optimize supply chain frequency.
-- Fiancial Data: Assess income or expense distribution for budgeting purpose.
-- Website Traffic: Analyze visitors engagement times to improve user experience.
-- Risk Assessment: Evalue the frequency of operational risks for mitigation planning.
-- Healthcare Metrics: Study patient wait times to enhance service efficiency.
-- Product Lifespan: Analyze product failure rates to improve design and durability.
+- Sales Analysis:
+  Visulize sales distribution to identify peak performance periods.
+- Quality Control:
+  Monitor product defect rates to maintain manufacturing standards.
+- Customer Behaviour:
+  Analyze purchase frequency to talior marketing strategies. 
+- Employee Performance:
+  Evaluate performance metrics to identify training needs
+- Inventory Management:
+  Track stock levels to optimize supply chain frequency.
+- Fiancial Data:
+  Assess income or expense distribution for budgeting purpose.
+- Website Traffic:
+  Analyze visitors engagement times to improve user experience.
+- Risk Assessment:
+  Evalue the frequency of operational risks for mitigation planning.
+- Healthcare Metrics:
+  Study patient wait times to enhance service efficiency.
+- Product Lifespan:
+  Analyze product failure rates to improve design and durability.
 
 ## 7. XY Scatter
 An XY scatter plot displays values for two variables to determine relationships, trends, clusters, outliners or correlations. Scatter plot as a vauable visualization tool are particularly useful for analyzing cause-and-effect relationships, making them essential for data-driven decision-making in various fields, including business, science and engineering. 
