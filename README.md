@@ -129,12 +129,12 @@ Z-score calculation:
 95% confidence in decimals = 0.95
 Alpha level α = (1-0.95) / 2 = 0.025
 Area = 1 - 0.025 = 0.975
-Z-score for 95 % Confidence level — **0.96**.
+Z-score for 95 % Confidence level - **0.96**.
 
 99% confidence level in decimals is 0.99. 
 Alpha level α = (1-0.99) / 2 = 0.005
 Area: 1 — 0.005 = 0.995. 
-Z-score for 99% confidence interval — **2.57**. 
+Z-score for 99% confidence interval - **2.57**. 
 
 Z-score card URL:
 https://testbook.com/maths-formulas/z-score-formula
