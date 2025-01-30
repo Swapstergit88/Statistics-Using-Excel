@@ -135,7 +135,7 @@ Area: 1 — 0.005 = 0.995.
 Z-score for 99% confidence interval - **2.57**. 
 
 By employing identical steps, one can compute the Z-score for a 95% confidence interval, which will fall within the 
-range of 2 and —2 on the normal distribution curve. 
+range of 2 and —2 on the normal distribution curve.
 95% confidence in decimals = 0.95
 Alpha level α = (1-0.95) / 2 = 0.025
 Area = 1 - 0.025 = 0.975
