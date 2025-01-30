@@ -148,18 +148,34 @@ Z-score card Screenshot:
 ![image](https://github.com/user-attachments/assets/0a6d8723-4d6a-4046-97ae-13967d3e4769)
 
 ## 6. Histogram
-A histogram is a graphical representation of the frequency distribution of numerical data.
+A histogram is a powerful graphical tool used to represent the distribution of numerical data by dividing it into intervals (bins) and displaying the frequency of datapoints within each bin. It helps identify patterns, trends and outliners, making it invaluable for data analysis and decision making. Histogram provides a clear visual understanding of data variability, central tendency, and skewness enabling business and researchers to draw meaningful insights and take action steps. 
 
 ### Business Use:
-- Visualizes data distributions to identify trends and outliers.
-- Assists in understanding customer behavior patterns through sales data analysis.
+- Sales Analysis: Visulize sales distribution to identify peak performance periods.
+- Quality Control: Monitor product defect rates to maintain manufacturing standards.
+- Customer Behaviour: Analyze purchase frequency to talior marketing strategies. 
+- Employee Performance: Evaluate performance metrics to identify training needs
+- Inventory Management: Track stock levels to optimize supply chain frequency.
+- Fiancial Data: Assess income or expense distribution for budgeting purpose.
+- Website Traffic: Analyze visitors engagement times to improve user experience.
+- Risk Assessment: Evalue the frequency of operational risks for mitigation planning.
+- Healthcare Metrics: Study patient wait times to enhance service efficiency.
+- Product Lifespan: Analyze product failure rates to improve design and durability.
 
 ## 7. XY Scatter
-An XY scatter plot displays values for two variables to determine relationships or correlations.
+An XY scatter plot displays values for two variables to determine relationships, trends, clusters, outliners or correlations. Scatter plot as a vauable visualization tool are particularly useful for analyzing cause-and-effect relationships, making them essential for data-driven decision-making in various fields, including business, science and engineering. 
 
 ### Business Use:
-- Analyzes the relationship between customer numbers and sales levels.
-- Identifies trends that can inform marketing strategies and resource allocation.
+- Sales vs. Advertising Spend: Analyze the correlation between marketing expenditure and sales revenue.
+- Customer Statisfaction vs. Product Price: Study the relationship between pricing and customer statisfaction levels.
+- Employee Productivity vs. Training Hours: Assess the impact of training on employee performance. 
+- Website Traffic vs. Conversion rates: Identify trends between visitor numbers and sales conversion. 
+- Production Hours vs. Machine Hours: Evaluate the efficiency of machinery in manufacturing processes. 
+- Risk vs. Returns: Plot investment risks against potential returns for portfolio analysis. 
+- Customer Age vs. Spending Habits: Understand demographic trends to tailor marketing campaigns. 
+- Delivery Time vs. Customer Retention: Analyze the impact of delivery speed on customer loyalty. 
+- Energy consumption vs. Output:Study the relationship between energy use and production output.
+- Product Features vs. Sales Performance: Identify which features drive higher sales for product optimization. 
 
 ## 8. Logarithmic Scale
 A logarithmic scale compresses large ranges of data into a more manageable format.
