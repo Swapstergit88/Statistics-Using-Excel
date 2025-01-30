@@ -109,7 +109,38 @@ The central limit theorem states that the distribution of sample means will appr
 - Facilitates hypothesis testing and decision-making based on sample statistics.
 
 ## 5. Margin of Errors
-The margin of error quantifies the uncertainty in survey results or estimates.
+The margin of error quantifies the uncertainty in survey results or estimates. It provides a range within which the true population lie, given a specific confidence level.
+A smaller margin indicates greater precision in the results, while larger margin indicates more variability. Understanding margin of error is essential for making informed decisions, ensuring data reliability and interpreting results accurately in research, business and policy-making. 
+
+## Business Use:
+- Market Research: Determines the accuracy of customer satisfaction surveys to refine product stratergies. 
+- Quality Control: Assess production defect rates to improve manufacturing processes. 
+- Election Polling: Predict elections outcomes with confidence intervals for campaign planning.
+- Healthcare Surveys: Estimate patient satisfaction levels to enhance service delivery. 
+- Financial Forecasting: Evaluate investment risk by analyzing market trends data. 
+- Employee Feedback: Measure employee engagement to guide HR policies.
+- Product Testing: Validate product performance metrics for launch decisions. 
+- Advertising ROI: Analyze ad campaign effectiveness to optimize marketing analysis.
+- Customer Demographics: Identify target audience preferences for tailored marketing. 
+- Risk Management: Assess potiential risks in business operations using statistical confidence intervals. 
+
+Z-score calculation:
+
+95% confidence in decimals = 0.95
+Alpha level α = (1-0.95) / 2 = 0.025
+Area = 1 - 0.025 = 0.975
+Z-score for 95 % Confidence level — **0.96**.
+
+99% confidence level in decimals is 0.99. 
+Alpha level α = (1-0.99) / 2 = 0.005
+Area: 1 — 0.005 = 0.995. 
+Z-score for 99% confidence interval — **2.57**. 
+
+Z-score card URL:
+https://testbook.com/maths-formulas/z-score-formula
+
+Z-score card Screenshot:
+
 
 ### Business Use:
 - Provides confidence intervals for sales forecasts or market research results.
