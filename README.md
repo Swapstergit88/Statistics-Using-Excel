@@ -126,15 +126,20 @@ A smaller margin indicates greater precision in the results, while larger margin
 
 Z-score calculation:
 
-95% confidence in decimals = 0.95
-Alpha level α = (1-0.95) / 2 = 0.025
-Area = 1 - 0.025 = 0.975
-Z-score for 95 % Confidence level - **0.96**.
-
+For a 99% confidence interval, the Z-score indicates that approximately 99% of the observations fall within the range of 3
+ standard deviations above and 3
+ standard deviations below the mean. This can be expressed as follows:
 99% confidence level in decimals is 0.99. 
 Alpha level α = (1-0.99) / 2 = 0.005
 Area: 1 — 0.005 = 0.995. 
 Z-score for 99% confidence interval - **2.57**. 
+
+By employing identical steps, one can compute the Z-score for a 95% confidence interval, which will fall within the 
+range of 2 and —2 on the normal distribution curve. 
+95% confidence in decimals = 0.95
+Alpha level α = (1-0.95) / 2 = 0.025
+Area = 1 - 0.025 = 0.975
+Z-score for 95 % Confidence level - **0.96**.
 
 Z-score card URL:
 https://testbook.com/maths-formulas/z-score-formula
