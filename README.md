@@ -142,11 +142,6 @@ https://testbook.com/maths-formulas/z-score-formula
 Z-score card Screenshot:
 ![image](https://github.com/user-attachments/assets/0a6d8723-4d6a-4046-97ae-13967d3e4769)
 
-
-### Business Use:
-- Provides confidence intervals for sales forecasts or market research results.
-- Helps businesses understand potential variability in customer feedback.
-
 ## 6. Histogram
 A histogram is a graphical representation of the frequency distribution of numerical data.
 
