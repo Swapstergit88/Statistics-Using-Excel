@@ -140,6 +140,7 @@ Z-score card URL:
 https://testbook.com/maths-formulas/z-score-formula
 
 Z-score card Screenshot:
+![image](https://github.com/user-attachments/assets/0a6d8723-4d6a-4046-97ae-13967d3e4769)
 
 
 ### Business Use:
