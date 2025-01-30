@@ -137,7 +137,7 @@ Area: 1 — 0.005 = 0.995.
 Z-score for 99% confidence interval - **2.57**. 
 
 Z-score card URL:
-      https://testbook.com/maths-formulas/z-score-formula
+https://testbook.com/maths-formulas/z-score-formula
 
 Z-score card Screenshot:
 ![image](https://github.com/user-attachments/assets/0a6d8723-4d6a-4046-97ae-13967d3e4769)
