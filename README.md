@@ -233,7 +233,7 @@ Forecasting is a critical process that uses historical data, statistical model a
 - Risk Managment: Predict potential risks to implement mitigation strategies. 
 
 ## 11. Running Average
-A running average smooths out short-term fluctuations and highlights longer-term trends in data. Its particularly useful for tracking performance, forecating, and identifying patterns in dynamic enviroments. 
+A running average smooths out short-term fluctuations and highlights longer-term trends in data. Its particularly useful for tracking performance, forecasting, and identifying patterns in dynamic enviroments. 
 
 ### Business Use:
 - Inventory Management: Optimize stock levels by tracking average sales trends to reduce overstocking or stockouts.
